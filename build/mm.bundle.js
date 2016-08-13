@@ -37538,7 +37538,7 @@ angular.module('mm.core')
     "wsextservice" : "local_mobile",
     "gcmpn": "847204461162",
     "customurlscheme": "moodlemobile",
-    "siteurl": "http://ice.xjtlu.edu.cn/"
+    "siteurl": "http://10.7.0.210"
 }
 );
 // END: XJTLU ADDITION 03/Aug/2016
