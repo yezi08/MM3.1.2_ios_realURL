@@ -1,0 +1,13 @@
+{
+    "app_id" : "cn.edu.xjtlu.iceapp",
+    "versioncode" : "2014",
+    "versionname" : "3.1.2",
+    "cache_expiration_time" : 300000,
+    "default_lang" : "en",
+    "languages": {"en": "English"},
+    "wsservice" : "moodle_mobile_app",
+    "wsextservice" : "local_mobile",
+    "gcmpn": "847204461162",
+    "customurlscheme": "moodlemobile",
+    "siteurl": "http://ice.xjtlu.edu.cn/"
+}
