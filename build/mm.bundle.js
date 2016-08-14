@@ -37530,7 +37530,7 @@ angular.module('mm.core')
 .constant('mmCoreConfigConstants', {
     "app_id" : "cn.edu.xjtlu.iceapp",
     "versioncode" : "2014",
-    "versionname" : "3.1.2",
+    "versionname" : "2.0",
     "cache_expiration_time" : 300000,
     "default_lang" : "en",
     "languages": {"en": "English"},
