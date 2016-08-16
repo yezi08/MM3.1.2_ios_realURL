@@ -2169,7 +2169,14 @@ angular.module('mm.addons.mod_quiz')
                 if (typeof gradebookData.grade != 'undefined') {
                     return self.getFeedbackForGrade(quiz.id, gradebookData.grade, true, siteId);
                 }
+                
+            // XJTLU change, test whether it work.
+            }).catch(function() {
+            	// Ignore failures.
+            // XJTLU change ends.
+            
             }));
+            
             promises.push(self.getAttemptAccessInformation(quiz.id, 0, false, true, siteId)); // Last attempt.
 
             return $q.all(promises);
