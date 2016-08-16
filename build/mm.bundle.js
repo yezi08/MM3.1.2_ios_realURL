@@ -37529,7 +37529,7 @@ angular.module('mm.core')
 // START: XJTLU ADDITION 03/Aug/2016 - modify app information
 .constant('mmCoreConfigConstants', {
     "app_id" : "cn.edu.xjtlu.iceapp",
-    "versioncode" : "2014",
+    "versioncode" : "2015",
     "versionname" : "2.0",
     "cache_expiration_time" : 300000,
     "default_lang" : "en",
